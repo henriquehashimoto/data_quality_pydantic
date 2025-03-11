@@ -10,6 +10,7 @@ dependencies = [
     "mkdocs-mermaid2-plugin>=1.2.1",
     "mkdocstrings>=0.28.2",
     "pandas>=2.2.3",
+    "pydantic>=2.10.6",
     "pytest>=8.3.5",
     "taskipy>=1.14.1",
 ]
